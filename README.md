@@ -51,7 +51,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulpseudoman](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=paulpseudoman&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 ### ✍️ Favorite Quote
