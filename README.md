@@ -55,8 +55,18 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=paulpseudoman&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+
+---
+
 ### ✍️ Favorite Quote
-> “In randomness lies order — if you know how to look.”
+
+<div align="center" style="background-color:#fdf6e3; padding: 15px; border-radius: 10px; font-weight: bold; color:#073642; font-size: 16px; border: 1px solid #eee; width: 80%; margin:auto;">
+<b>“In randomness lies order — if you know how to look.”</b>
+</div>
+
 
 ---
 
