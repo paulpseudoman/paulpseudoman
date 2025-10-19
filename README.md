@@ -13,7 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritrabha-majumdar-706a7a215/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrabhamajumdar.math@gmail.com)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=About.me&logoColor=white)](https://paulpseudoman.github.io)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paul_pseudoman)
+[![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31ws43q7vgyacltmmickqvoeodi4?si=_n7tG0rAQp2BtqC94ZNmjw&nd=1&dlsi=0ab860202f744b44)
 ---
 
 # 💻 Tech Stack
@@ -50,8 +51,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=paulpseudoman&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulpseudoman](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### ✍️ Favorite Quote
