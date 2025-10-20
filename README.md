@@ -1,14 +1,14 @@
-# 💫 About Me
+# About Me
 
-👋 Hi, I’m **Aritrabha** — a mathematics enthusiast who loves finding structure in randomness and logic in chaos.  
-🎲 My current fascinations include **random walks**, **stochastic processes**, **probability theory**, and **self avoiding walks**.  
-🧠 I’m also passionate about **AI-driven tools** and **machine learning**, and I’ve worked on projects ranging from **AI-powered document retrieval** to **card-game simulation and strategy**.  
-📚 I’m currently pursuing my **Bachelors in Mathematics** from **Indian Statistical Institute**.  
-🎨 Outside of math and AI, I enjoy rethinking board games and designing systems that *teach as they play*.  
+ Hi, I’m **Aritrabha** — a mathematics enthusiast who loves finding structure in randomness and logic in chaos.  
+My current fascinations include **random walks**, **stochastic processes**, **probability theory**, and **self avoiding walks**.  
+ I’m also passionate about **AI-driven tools** and **machine learning**, and I’ve worked on projects ranging from **AI-powered document retrieval** to **card-game simulation and strategy**.  
+I’m currently pursuing my **Bachelors in Mathematics** from **Indian Statistical Institute**.  
+ Outside of math and AI, I enjoy rethinking board games and designing systems that *teach as they play*.  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritrabha-majumdar-706a7a215/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aritrabhamajumdar.math@gmail.com)
@@ -17,9 +17,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31ws43q7vgyacltmmickqvoeodi4?si=_n7tG0rAQp2BtqC94ZNmjw&nd=1&dlsi=0ab860202f744b44)
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
-### 🧩 Programming & Math Tools
+### Programming & Math Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -28,20 +28,20 @@
 ![NetworkX](https://img.shields.io/badge/NetworkX-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-### 🧠 Machine Learning & Data
+###  Machine Learning & Data
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🧰 Development & Cloud
+### Development & Cloud
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=paulpseudoman&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=paulpseudoman&theme=solarized-light&hide_border=false)<br/>
@@ -49,19 +49,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=paulpseudoman&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=paulpseudoman&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
 
-### ✍️ Favorite Quote
+### Favorite Quote
 
 <div align="center" style="background-color:#fdf6e3; padding: 15px; border-radius: 10px; font-weight: bold; color:#073642; font-size: 16px; border: 1px solid #eee; width: 80%; margin:auto;">
 <b>“In randomness lies order — if you know how to look.”</b>
